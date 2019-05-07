@@ -1,5 +1,6 @@
 title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
+logo: /assets/img/LOGO.png
+description: welcome to Star Rocket
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
