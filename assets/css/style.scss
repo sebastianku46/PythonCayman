@@ -108,9 +108,9 @@ a {
 }
 
 .page-header {
-  color: ;
+  color: rgb(0,0,0);opacity: 0.0;
   text-align: center;
-  background-color: ;
+  background-color: rgb(0,0,0);opacity: 0.0;
   background-image:  url("assets/img/bg-up.jpg");
 
   @include large {
