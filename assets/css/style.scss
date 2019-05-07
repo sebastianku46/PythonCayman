@@ -110,18 +110,6 @@ a {
 .page-header {
   text-align: center;
   background-image:  url("assets/img/bg-up.jpg");
-
-  @include large {
-    padding: 5rem 6rem;
-  }
-
-  @include medium {
-    padding: 3rem 4rem;
-  }
-
-  @include small {
-    padding: 2rem 1rem;
-  }
 }
 
 .project-name {
